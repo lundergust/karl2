@@ -10,936 +10,392 @@ INFO:root:=============== TURN 008 ================
 INFO:root:=============== TURN 009 ================
 INFO:root:=============== TURN 010 ================
 INFO:root:=============== TURN 011 ================
-INFO:root:Ship 1 has 0 halite.
 INFO:root:=============== TURN 012 ================
-INFO:root:Ship 1 has 0 halite.
 INFO:root:=============== TURN 013 ================
-INFO:root:Ship 1 has 14 halite.
 INFO:root:=============== TURN 014 ================
-INFO:root:Ship 1 has 10 halite.
 INFO:root:=============== TURN 015 ================
-INFO:root:Ship 1 has 28 halite.
-INFO:root:[Position(9, 16), Position(9, 18), Position(10, 17), Position(8, 17), Position(9, 17)]
 INFO:root:=============== TURN 016 ================
-INFO:root:Ship 1 has 23 halite.
 INFO:root:=============== TURN 017 ================
-INFO:root:Ship 1 has 17 halite.
 INFO:root:=============== TURN 018 ================
-INFO:root:Ship 1 has 51 halite.
 INFO:root:=============== TURN 019 ================
-INFO:root:Ship 1 has 41 halite.
 INFO:root:=============== TURN 020 ================
-INFO:root:Ship 1 has 29 halite.
 INFO:root:=============== TURN 021 ================
-INFO:root:Ship 3 has 0 halite.
-INFO:root:Ship 1 has 135 halite.
 INFO:root:=============== TURN 022 ================
-INFO:root:Ship 3 has 0 halite.
-INFO:root:Ship 1 has 215 halite.
 INFO:root:=============== TURN 023 ================
-INFO:root:Ship 3 has 10 halite.
-INFO:root:Ship 1 has 275 halite.
 INFO:root:=============== TURN 024 ================
-INFO:root:Ship 3 has 7 halite.
-INFO:root:Ship 1 has 320 halite.
 INFO:root:=============== TURN 025 ================
-INFO:root:Ship 3 has 2 halite.
-INFO:root:Ship 1 has 353 halite.
 INFO:root:=============== TURN 026 ================
-INFO:root:Ship 3 has 18 halite.
-INFO:root:Ship 1 has 378 halite.
 INFO:root:=============== TURN 027 ================
-INFO:root:Ship 1 has 371 halite.
-INFO:root:Ship 3 has 14 halite.
 INFO:root:=============== TURN 028 ================
-INFO:root:Ship 1 has 359 halite.
-INFO:root:Ship 3 has 4 halite.
 INFO:root:=============== TURN 029 ================
-INFO:root:Ship 1 has 357 halite.
-INFO:root:Ship 3 has 34 halite.
 INFO:root:=============== TURN 030 ================
-INFO:root:Ship 1 has 356 halite.
-INFO:root:Ship 3 has 25 halite.
 INFO:root:=============== TURN 031 ================
-INFO:root:Ship 5 has 0 halite.
-INFO:root:Ship 3 has 15 halite.
-INFO:root:Ship 1 has 354 halite.
-INFO:root:attempting to move to same spot
-
 INFO:root:=============== TURN 032 ================
-INFO:root:Ship 3 has 41 halite.
 INFO:root:=============== TURN 033 ================
-INFO:root:Ship 3 has 34 halite.
 INFO:root:=============== TURN 034 ================
-INFO:root:Ship 3 has 60 halite.
 INFO:root:=============== TURN 035 ================
-INFO:root:Ship 3 has 53 halite.
 INFO:root:=============== TURN 036 ================
-INFO:root:Ship 3 has 76 halite.
 INFO:root:=============== TURN 037 ================
-INFO:root:Ship 3 has 70 halite.
 INFO:root:=============== TURN 038 ================
-INFO:root:Ship 3 has 63 halite.
 INFO:root:=============== TURN 039 ================
-INFO:root:Ship 3 has 56 halite.
 INFO:root:=============== TURN 040 ================
-INFO:root:Ship 3 has 48 halite.
 INFO:root:=============== TURN 041 ================
-INFO:root:Ship 7 has 0 halite.
-INFO:root:Ship 3 has 77 halite.
 INFO:root:=============== TURN 042 ================
-INFO:root:Ship 7 has 0 halite.
-INFO:root:Ship 3 has 69 halite.
 INFO:root:=============== TURN 043 ================
-INFO:root:Ship 3 has 59 halite.
-INFO:root:Ship 7 has 98 halite.
 INFO:root:=============== TURN 044 ================
-INFO:root:Ship 3 has 48 halite.
-INFO:root:Ship 7 has 171 halite.
 INFO:root:=============== TURN 045 ================
-INFO:root:Ship 3 has 36 halite.
-INFO:root:Ship 7 has 226 halite.
 INFO:root:=============== TURN 046 ================
-INFO:root:Ship 3 has 15 halite.
-INFO:root:Ship 7 has 267 halite.
 INFO:root:=============== TURN 047 ================
-INFO:root:Ship 3 has 97 halite.
-INFO:root:Ship 7 has 298 halite.
 INFO:root:=============== TURN 048 ================
-INFO:root:Ship 3 has 73 halite.
-INFO:root:Ship 7 has 321 halite.
 INFO:root:=============== TURN 049 ================
-INFO:root:Ship 3 has 136 halite.
-INFO:root:Ship 7 has 339 halite.
 INFO:root:=============== TURN 050 ================
-INFO:root:Ship 3 has 118 halite.
-INFO:root:Ship 7 has 352 halite.
 INFO:root:=============== TURN 051 ================
-INFO:root:Ship 7 has 0 halite.
-INFO:root:Ship 3 has 179 halite.
 INFO:root:=============== TURN 052 ================
-INFO:root:Ship 3 has 161 halite.
-INFO:root:Ship 7 has 0 halite.
 INFO:root:=============== TURN 053 ================
-INFO:root:Ship 3 has 140 halite.
-INFO:root:Ship 7 has 10 halite.
 INFO:root:=============== TURN 054 ================
-INFO:root:Ship 7 has 8 halite.
-INFO:root:Ship 3 has 210 halite.
 INFO:root:=============== TURN 055 ================
-INFO:root:Ship 3 has 190 halite.
-INFO:root:Ship 7 has 22 halite.
 INFO:root:=============== TURN 056 ================
-INFO:root:Ship 7 has 18 halite.
-INFO:root:Ship 3 has 245 halite.
 INFO:root:=============== TURN 057 ================
-INFO:root:Ship 7 has 14 halite.
-INFO:root:Ship 3 has 229 halite.
 INFO:root:=============== TURN 058 ================
-INFO:root:Ship 7 has 7 halite.
-INFO:root:Ship 3 has 281 halite.
 INFO:root:=============== TURN 059 ================
-INFO:root:Ship 7 has 0 halite.
-INFO:root:Ship 3 has 266 halite.
 INFO:root:=============== TURN 060 ================
-INFO:root:Ship 3 has 250 halite.
-INFO:root:Ship 7 has 21 halite.
 INFO:root:=============== TURN 061 ================
-INFO:root:Ship 9 has 0 halite.
-INFO:root:Ship 3 has 232 halite.
-INFO:root:Ship 7 has 15 halite.
 INFO:root:=============== TURN 062 ================
-INFO:root:Ship 9 has 0 halite.
-INFO:root:Ship 3 has 214 halite.
-INFO:root:Ship 7 has 5 halite.
 INFO:root:=============== TURN 063 ================
-INFO:root:Ship 9 has 8 halite.
-INFO:root:Ship 3 has 267 halite.
-INFO:root:Ship 7 has 107 halite.
 INFO:root:=============== TURN 064 ================
-INFO:root:Ship 9 has 6 halite.
-INFO:root:Ship 3 has 252 halite.
-INFO:root:Ship 7 has 77 halite.
 INFO:root:=============== TURN 065 ================
-INFO:root:Ship 7 has 47 halite.
-INFO:root:Ship 9 has 2 halite.
-INFO:root:Ship 3 has 234 halite.
 INFO:root:=============== TURN 066 ================
-INFO:root:Ship 7 has 17 halite.
-INFO:root:Ship 3 has 216 halite.
-INFO:root:Ship 9 has 14 halite.
 INFO:root:=============== TURN 067 ================
-INFO:root:Ship 3 has 198 halite.
-INFO:root:Ship 9 has 11 halite.
-INFO:root:Ship 7 has 93 halite.
 INFO:root:=============== TURN 068 ================
-INFO:root:Ship 9 has 4 halite.
-INFO:root:Ship 3 has 180 halite.
-INFO:root:Ship 7 has 71 halite.
 INFO:root:=============== TURN 069 ================
-INFO:root:Ship 3 has 162 halite.
-INFO:root:Ship 7 has 47 halite.
-INFO:root:Ship 9 has 24 halite.
 INFO:root:=============== TURN 070 ================
-INFO:root:Ship 9 has 19 halite.
-INFO:root:Ship 3 has 144 halite.
-INFO:root:Ship 7 has 23 halite.
 INFO:root:=============== TURN 071 ================
-INFO:root:Ship 3 has 126 halite.
-INFO:root:Ship 9 has 38 halite.
-INFO:root:Ship 7 has 84 halite.
 INFO:root:=============== TURN 072 ================
-INFO:root:Ship 9 has 33 halite.
-INFO:root:Ship 3 has 108 halite.
-INFO:root:Ship 7 has 66 halite.
 INFO:root:=============== TURN 073 ================
-INFO:root:Ship 9 has 27 halite.
-INFO:root:Ship 3 has 90 halite.
-INFO:root:Ship 7 has 43 halite.
 INFO:root:=============== TURN 074 ================
-INFO:root:Ship 9 has 20 halite.
-INFO:root:Ship 3 has 72 halite.
-INFO:root:Ship 7 has 153 halite.
 INFO:root:=============== TURN 075 ================
-INFO:root:Ship 7 has 120 halite.
-INFO:root:Ship 9 has 8 halite.
-INFO:root:Ship 3 has 54 halite.
 INFO:root:=============== TURN 076 ================
-INFO:root:Ship 7 has 58 halite.
-INFO:root:Ship 3 has 36 halite.
-INFO:root:Ship 9 has 68 halite.
 INFO:root:=============== TURN 077 ================
-INFO:root:Ship 3 has 18 halite.
-INFO:root:Ship 7 has 214 halite.
-INFO:root:Ship 9 has 113 halite.
 INFO:root:=============== TURN 078 ================
-INFO:root:Ship 7 has 168 halite.
-INFO:root:Ship 3 has 0 halite.
-INFO:root:Ship 9 has 147 halite.
 INFO:root:=============== TURN 079 ================
-INFO:root:Ship 7 has 122 halite.
-INFO:root:Ship 9 has 138 halite.
-INFO:root:Ship 3 has 47 halite.
 INFO:root:=============== TURN 080 ================
-INFO:root:Ship 7 has 76 halite.
-INFO:root:Ship 9 has 126 halite.
-INFO:root:Ship 3 has 34 halite.
 INFO:root:=============== TURN 081 ================
-INFO:root:Ship 9 has 111 halite.
-INFO:root:Ship 7 has 30 halite.
-INFO:root:Ship 3 has 81 halite.
 INFO:root:=============== TURN 082 ================
-INFO:root:Ship 3 has 68 halite.
-INFO:root:Ship 9 has 95 halite.
-INFO:root:Ship 7 has 147 halite.
 INFO:root:=============== TURN 083 ================
-INFO:root:Ship 3 has 53 halite.
-INFO:root:Ship 7 has 113 halite.
-INFO:root:Ship 9 has 141 halite.
 INFO:root:=============== TURN 084 ================
-INFO:root:Ship 7 has 69 halite.
-INFO:root:Ship 9 has 128 halite.
-INFO:root:Ship 3 has 162 halite.
 INFO:root:=============== TURN 085 ================
-INFO:root:Ship 7 has 25 halite.
-INFO:root:Ship 3 has 130 halite.
-INFO:root:Ship 9 has 169 halite.
 INFO:root:=============== TURN 086 ================
-INFO:root:Ship 3 has 96 halite.
-INFO:root:Ship 9 has 157 halite.
-INFO:root:Ship 7 has 137 halite.
 INFO:root:=============== TURN 087 ================
-INFO:root:Ship 7 has 104 halite.
-INFO:root:Ship 3 has 58 halite.
-INFO:root:Ship 9 has 196 halite.
 INFO:root:=============== TURN 088 ================
-INFO:root:Ship 7 has 70 halite.
-INFO:root:Ship 3 has 20 halite.
-INFO:root:Ship 9 has 185 halite.
 INFO:root:=============== TURN 089 ================
-INFO:root:Ship 7 has 36 halite.
-INFO:root:Ship 9 has 170 halite.
-INFO:root:Ship 3 has 118 halite.
 INFO:root:=============== TURN 090 ================
-INFO:root:Ship 7 has 2 halite.
-INFO:root:Ship 3 has 89 halite.
-INFO:root:Ship 9 has 209 halite.
 INFO:root:=============== TURN 091 ================
-INFO:root:Ship 9 has 198 halite.
-INFO:root:Ship 3 has 55 halite.
-INFO:root:Ship 7 has 90 halite.
 INFO:root:=============== TURN 092 ================
-INFO:root:Ship 3 has 21 halite.
-INFO:root:Ship 7 has 64 halite.
-INFO:root:Ship 9 has 236 halite.
 INFO:root:=============== TURN 093 ================
-INFO:root:Ship 7 has 31 halite.
-INFO:root:Ship 9 has 225 halite.
-INFO:root:Ship 3 has 109 halite.
 INFO:root:=============== TURN 094 ================
-INFO:root:Ship 9 has 212 halite.
-INFO:root:Ship 3 has 83 halite.
-INFO:root:attempting to move to same spot
-
-INFO:root:Ship 7 has 115 halite.
 INFO:root:=============== TURN 095 ================
-INFO:root:Ship 9 has 198 halite.
-INFO:root:Ship 7 has 90 halite.
-INFO:root:Ship 3 has 51 halite.
-INFO:root:attempting to move to same spot
-
 INFO:root:=============== TURN 096 ================
-INFO:root:Ship 3 has 25 halite.
-INFO:root:Ship 7 has 64 halite.
-INFO:root:Ship 9 has 444 halite.
 INFO:root:=============== TURN 097 ================
-INFO:root:Ship 7 has 31 halite.
-INFO:root:Ship 3 has 244 halite.
-INFO:root:Ship 9 has 627 halite.
 INFO:root:=============== TURN 098 ================
-INFO:root:Ship 9 has 609 halite.
-INFO:root:Ship 7 has 114 halite.
 INFO:root:=============== TURN 099 ================
-INFO:root:Ship 9 has 595 halite.
-INFO:root:Ship 7 has 90 halite.
 INFO:root:=============== TURN 100 ================
-INFO:root:Ship 9 has 582 halite.
-INFO:root:Ship 7 has 64 halite.
 INFO:root:=============== TURN 101 ================
-INFO:root:Ship 9 has 571 halite.
-INFO:root:Ship 7 has 38 halite.
 INFO:root:=============== TURN 102 ================
-INFO:root:Ship 7 has 12 halite.
-INFO:root:Ship 9 has 559 halite.
 INFO:root:=============== TURN 103 ================
-INFO:root:Ship 9 has 554 halite.
-INFO:root:Ship 7 has 78 halite.
 INFO:root:=============== TURN 104 ================
-INFO:root:Ship 9 has 554 halite.
-INFO:root:Ship 7 has 59 halite.
 INFO:root:=============== TURN 105 ================
-INFO:root:Ship 9 has 553 halite.
-INFO:root:Ship 7 has 34 halite.
 INFO:root:=============== TURN 106 ================
-INFO:root:Ship 9 has 552 halite.
-INFO:root:Ship 7 has 9 halite.
 INFO:root:=============== TURN 107 ================
-INFO:root:Ship 9 has 551 halite.
-INFO:root:Ship 7 has 72 halite.
 INFO:root:=============== TURN 108 ================
-INFO:root:Ship 9 has 549 halite.
-INFO:root:Ship 7 has 54 halite.
 INFO:root:=============== TURN 109 ================
-INFO:root:Ship 9 has 0 halite.
-INFO:root:Ship 7 has 32 halite.
 INFO:root:=============== TURN 110 ================
-INFO:root:Ship 9 has 0 halite.
-INFO:root:Ship 7 has 3 halite.
 INFO:root:=============== TURN 111 ================
-INFO:root:Ship 9 has 7 halite.
-INFO:root:Ship 7 has 78 halite.
 INFO:root:=============== TURN 112 ================
-INFO:root:Ship 9 has 5 halite.
-INFO:root:Ship 7 has 56 halite.
 INFO:root:=============== TURN 113 ================
-INFO:root:Ship 7 has 34 halite.
-INFO:root:Ship 9 has 15 halite.
 INFO:root:=============== TURN 114 ================
-INFO:root:Ship 9 has 12 halite.
-INFO:root:Ship 7 has 12 halite.
 INFO:root:=============== TURN 115 ================
-INFO:root:Ship 9 has 9 halite.
-INFO:root:Ship 7 has 68 halite.
 INFO:root:=============== TURN 116 ================
-INFO:root:Ship 9 has 4 halite.
-INFO:root:Ship 7 has 52 halite.
 INFO:root:=============== TURN 117 ================
-INFO:root:Ship 7 has 30 halite.
-INFO:root:Ship 9 has 21 halite.
 INFO:root:=============== TURN 118 ================
-INFO:root:Ship 7 has 8 halite.
-INFO:root:Ship 9 has 16 halite.
 INFO:root:=============== TURN 119 ================
-INFO:root:Ship 9 has 9 halite.
-INFO:root:Ship 7 has 64 halite.
 INFO:root:=============== TURN 120 ================
-INFO:root:Ship 7 has 48 halite.
-INFO:root:Ship 9 has 40 halite.
 INFO:root:=============== TURN 121 ================
-INFO:root:Ship 9 has 31 halite.
-INFO:root:Ship 7 has 29 halite.
 INFO:root:=============== TURN 122 ================
-INFO:root:Ship 7 has 8 halite.
-INFO:root:Ship 9 has 64 halite.
 INFO:root:=============== TURN 123 ================
-INFO:root:Ship 9 has 55 halite.
-INFO:root:Ship 7 has 63 halite.
 INFO:root:=============== TURN 124 ================
-INFO:root:Ship 7 has 47 halite.
-INFO:root:Ship 9 has 43 halite.
 INFO:root:=============== TURN 125 ================
-INFO:root:Ship 7 has 28 halite.
-INFO:root:Ship 9 has 30 halite.
 INFO:root:=============== TURN 126 ================
-INFO:root:Ship 7 has 9 halite.
-INFO:root:Ship 9 has 16 halite.
 INFO:root:=============== TURN 127 ================
-INFO:root:Ship 7 has 58 halite.
-INFO:root:Ship 9 has 62 halite.
 INFO:root:=============== TURN 128 ================
-INFO:root:Ship 7 has 44 halite.
-INFO:root:Ship 9 has 49 halite.
 INFO:root:=============== TURN 129 ================
-INFO:root:Ship 9 has 23 halite.
-INFO:root:Ship 7 has 28 halite.
 INFO:root:=============== TURN 130 ================
-INFO:root:Ship 7 has 12 halite.
-INFO:root:Ship 9 has 89 halite.
 INFO:root:=============== TURN 131 ================
-INFO:root:Ship 9 has 70 halite.
-INFO:root:Ship 7 has 66 halite.
 INFO:root:=============== TURN 132 ================
-INFO:root:Ship 7 has 51 halite.
-INFO:root:Ship 9 has 169 halite.
 INFO:root:=============== TURN 133 ================
-INFO:root:Ship 7 has 106 halite.
-INFO:root:Ship 9 has 243 halite.
 INFO:root:=============== TURN 134 ================
-INFO:root:Ship 7 has 90 halite.
-INFO:root:Ship 9 has 298 halite.
 INFO:root:=============== TURN 135 ================
-INFO:root:Ship 9 has 282 halite.
-INFO:root:Ship 7 has 143 halite.
 INFO:root:=============== TURN 136 ================
-INFO:root:Ship 9 has 261 halite.
-INFO:root:Ship 7 has 128 halite.
 INFO:root:=============== TURN 137 ================
-INFO:root:Ship 7 has 112 halite.
-INFO:root:Ship 9 has 327 halite.
 INFO:root:=============== TURN 138 ================
-INFO:root:Ship 7 has 94 halite.
-INFO:root:Ship 9 has 308 halite.
 INFO:root:=============== TURN 139 ================
-INFO:root:Ship 7 has 75 halite.
 INFO:root:=============== TURN 140 ================
-INFO:root:Ship 7 has 51 halite.
 INFO:root:=============== TURN 141 ================
-INFO:root:Ship 7 has 27 halite.
 INFO:root:=============== TURN 142 ================
-INFO:root:Ship 7 has 3 halite.
 INFO:root:=============== TURN 143 ================
-INFO:root:Ship 7 has 65 halite.
 INFO:root:=============== TURN 144 ================
-INFO:root:Ship 7 has 47 halite.
 INFO:root:=============== TURN 145 ================
-INFO:root:Ship 7 has 24 halite.
 INFO:root:=============== TURN 146 ================
-INFO:root:Ship 7 has 110 halite.
 INFO:root:=============== TURN 147 ================
-INFO:root:Ship 7 has 174 halite.
 INFO:root:=============== TURN 148 ================
-INFO:root:Ship 7 has 155 halite.
 INFO:root:=============== TURN 149 ================
-INFO:root:Ship 7 has 217 halite.
 INFO:root:=============== TURN 150 ================
-INFO:root:Ship 7 has 199 halite.
 INFO:root:=============== TURN 151 ================
-INFO:root:Ship 7 has 180 halite.
 INFO:root:=============== TURN 152 ================
-INFO:root:Ship 7 has 157 halite.
 INFO:root:=============== TURN 153 ================
-INFO:root:Ship 7 has 134 halite.
 INFO:root:=============== TURN 154 ================
-INFO:root:Ship 7 has 111 halite.
 INFO:root:=============== TURN 155 ================
-INFO:root:Ship 7 has 88 halite.
 INFO:root:=============== TURN 156 ================
-INFO:root:Ship 7 has 65 halite.
 INFO:root:=============== TURN 157 ================
-INFO:root:Ship 7 has 42 halite.
 INFO:root:=============== TURN 158 ================
-INFO:root:Ship 7 has 19 halite.
 INFO:root:=============== TURN 159 ================
-INFO:root:Ship 7 has 77 halite.
 INFO:root:=============== TURN 160 ================
-INFO:root:Ship 7 has 60 halite.
 INFO:root:=============== TURN 161 ================
-INFO:root:Ship 7 has 108 halite.
 INFO:root:=============== TURN 162 ================
-INFO:root:Ship 7 has 94 halite.
 INFO:root:=============== TURN 163 ================
-INFO:root:Ship 7 has 141 halite.
 INFO:root:=============== TURN 164 ================
-INFO:root:Ship 7 has 128 halite.
 INFO:root:=============== TURN 165 ================
-INFO:root:Ship 7 has 114 halite.
 INFO:root:=============== TURN 166 ================
-INFO:root:Ship 7 has 97 halite.
 INFO:root:=============== TURN 167 ================
-INFO:root:Ship 7 has 79 halite.
 INFO:root:=============== TURN 168 ================
-INFO:root:Ship 7 has 60 halite.
 INFO:root:=============== TURN 169 ================
-INFO:root:Ship 7 has 41 halite.
 INFO:root:=============== TURN 170 ================
-INFO:root:Ship 7 has 22 halite.
 INFO:root:=============== TURN 171 ================
-INFO:root:Ship 7 has 3 halite.
 INFO:root:=============== TURN 172 ================
-INFO:root:Ship 7 has 52 halite.
 INFO:root:=============== TURN 173 ================
-INFO:root:Ship 7 has 38 halite.
 INFO:root:=============== TURN 174 ================
-INFO:root:Ship 7 has 20 halite.
 INFO:root:=============== TURN 175 ================
-INFO:root:Ship 7 has 2 halite.
 INFO:root:=============== TURN 176 ================
-INFO:root:Ship 7 has 49 halite.
 INFO:root:=============== TURN 177 ================
-INFO:root:Ship 7 has 35 halite.
 INFO:root:=============== TURN 178 ================
-INFO:root:Ship 7 has 19 halite.
 INFO:root:=============== TURN 179 ================
-INFO:root:Ship 7 has 3 halite.
 INFO:root:=============== TURN 180 ================
-INFO:root:Ship 7 has 45 halite.
 INFO:root:=============== TURN 181 ================
-INFO:root:Ship 7 has 33 halite.
 INFO:root:=============== TURN 182 ================
-INFO:root:Ship 7 has 17 halite.
 INFO:root:=============== TURN 183 ================
-INFO:root:Ship 7 has 1 halite.
 INFO:root:=============== TURN 184 ================
-INFO:root:Ship 7 has 43 halite.
 INFO:root:=============== TURN 185 ================
-INFO:root:Ship 7 has 31 halite.
 INFO:root:=============== TURN 186 ================
-INFO:root:Ship 7 has 17 halite.
 INFO:root:=============== TURN 187 ================
-INFO:root:Ship 7 has 1 halite.
 INFO:root:=============== TURN 188 ================
-INFO:root:Ship 7 has 42 halite.
 INFO:root:=============== TURN 189 ================
-INFO:root:Ship 7 has 30 halite.
 INFO:root:=============== TURN 190 ================
-INFO:root:Ship 7 has 16 halite.
 INFO:root:=============== TURN 191 ================
-INFO:root:Ship 7 has 2 halite.
 INFO:root:=============== TURN 192 ================
-INFO:root:Ship 7 has 38 halite.
 INFO:root:=============== TURN 193 ================
-INFO:root:Ship 7 has 28 halite.
 INFO:root:=============== TURN 194 ================
-INFO:root:Ship 7 has 16 halite.
 INFO:root:=============== TURN 195 ================
-INFO:root:Ship 7 has 65 halite.
 INFO:root:=============== TURN 196 ================
-INFO:root:Ship 7 has 51 halite.
 INFO:root:=============== TURN 197 ================
-INFO:root:Ship 7 has 33 halite.
 INFO:root:=============== TURN 198 ================
-INFO:root:Ship 7 has 157 halite.
 INFO:root:=============== TURN 199 ================
-INFO:root:Ship 7 has 250 halite.
 INFO:root:=============== TURN 200 ================
-INFO:root:Ship 7 has 319 halite.
 INFO:root:=============== TURN 201 ================
-INFO:root:Ship 7 has 299 halite.
 INFO:root:=============== TURN 202 ================
-INFO:root:Ship 7 has 361 halite.
 INFO:root:=============== TURN 203 ================
-INFO:root:Ship 7 has 407 halite.
 INFO:root:=============== TURN 204 ================
-INFO:root:Ship 7 has 394 halite.
 INFO:root:=============== TURN 205 ================
-INFO:root:Ship 7 has 374 halite.
 INFO:root:=============== TURN 206 ================
-INFO:root:Ship 7 has 358 halite.
 INFO:root:=============== TURN 207 ================
-INFO:root:Ship 7 has 347 halite.
 INFO:root:=============== TURN 208 ================
-INFO:root:Ship 7 has 335 halite.
 INFO:root:=============== TURN 209 ================
-INFO:root:Ship 7 has 325 halite.
 INFO:root:=============== TURN 210 ================
-INFO:root:Ship 7 has 313 halite.
 INFO:root:=============== TURN 211 ================
-INFO:root:Ship 7 has 301 halite.
 INFO:root:=============== TURN 212 ================
-INFO:root:Ship 7 has 287 halite.
 INFO:root:=============== TURN 213 ================
-INFO:root:Ship 7 has 273 halite.
 INFO:root:=============== TURN 214 ================
-INFO:root:Ship 7 has 255 halite.
 INFO:root:=============== TURN 215 ================
-INFO:root:Ship 7 has 238 halite.
 INFO:root:=============== TURN 216 ================
-INFO:root:Ship 7 has 284 halite.
 INFO:root:=============== TURN 217 ================
-INFO:root:Ship 7 has 318 halite.
 INFO:root:=============== TURN 218 ================
-INFO:root:Ship 7 has 344 halite.
 INFO:root:=============== TURN 219 ================
-INFO:root:Ship 7 has 363 halite.
 INFO:root:=============== TURN 220 ================
-INFO:root:Ship 7 has 378 halite.
 INFO:root:=============== TURN 221 ================
-INFO:root:Ship 7 has 389 halite.
 INFO:root:=============== TURN 222 ================
-INFO:root:Ship 7 has 397 halite.
 INFO:root:=============== TURN 223 ================
-INFO:root:Ship 7 has 403 halite.
 INFO:root:=============== TURN 224 ================
-INFO:root:Ship 7 has 408 halite.
 INFO:root:=============== TURN 225 ================
-INFO:root:Ship 7 has 411 halite.
 INFO:root:=============== TURN 226 ================
-INFO:root:Ship 7 has 414 halite.
 INFO:root:=============== TURN 227 ================
-INFO:root:Ship 7 has 416 halite.
 INFO:root:=============== TURN 228 ================
-INFO:root:Ship 7 has 417 halite.
 INFO:root:=============== TURN 229 ================
-INFO:root:Ship 7 has 418 halite.
 INFO:root:=============== TURN 230 ================
-INFO:root:Ship 7 has 419 halite.
 INFO:root:=============== TURN 231 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 232 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 233 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 234 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 235 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 236 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 237 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 238 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 239 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 240 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 241 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 242 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 243 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 244 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 245 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 246 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 247 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 248 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 249 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 250 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 251 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 252 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 253 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 254 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 255 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 256 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 257 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 258 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 259 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 260 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 261 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 262 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 263 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 264 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 265 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 266 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 267 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 268 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 269 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 270 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 271 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 272 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 273 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 274 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 275 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 276 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 277 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 278 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 279 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 280 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 281 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 282 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 283 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 284 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 285 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 286 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 287 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 288 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 289 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 290 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 291 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 292 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 293 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 294 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 295 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 296 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 297 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 298 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 299 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 300 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 301 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 302 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 303 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 304 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 305 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 306 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 307 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 308 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 309 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 310 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 311 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 312 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 313 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 314 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 315 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 316 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 317 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 318 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 319 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 320 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 321 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 322 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 323 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 324 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 325 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 326 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 327 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 328 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 329 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 330 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 331 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 332 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 333 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 334 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 335 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 336 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 337 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 338 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 339 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 340 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 341 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 342 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 343 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 344 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 345 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 346 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 347 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 348 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 349 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 350 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 351 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 352 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 353 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 354 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 355 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 356 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 357 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 358 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 359 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 360 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 361 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 362 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 363 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 364 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 365 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 366 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 367 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 368 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 369 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 370 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 371 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 372 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 373 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 374 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 375 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 376 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 377 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 378 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 379 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 380 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 381 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 382 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 383 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 384 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 385 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 386 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 387 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 388 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 389 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 390 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 391 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 392 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 393 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 394 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 395 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 396 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 397 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 398 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 399 ================
-INFO:root:Ship 7 has 420 halite.
 INFO:root:=============== TURN 400 ================
-INFO:root:Ship 7 has 420 halite.
